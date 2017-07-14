@@ -1,0 +1,249 @@
+Page,New 2017 Asset,# ID,Source,Description,EIF,Min,Max,Interest,Dividend,Capital Gain,Rent,Income Min,Income Max
+34,,1,,Baron Real Estate Fund,Yes,$0,"$1,001",,,,,"$100,001","$1,000,000"
+34,,2,,Baron Growth Fund,Yes,$0,"$1,001",,,,,"$100,001","$1,000,000"
+34,,3,,Baron Partners Fund,Yes,$0,"$1,001",,,,,"$100,001","$1,000,000"
+34,,4,,"AG Diversified Income Fund Plus, LP (fka AG Diversified Credit Strategies Fund LP) (Angelo Gordon)",Yes,$0,"$1,001",,,,,"$100,001","$1,000,000"
+34,,5,,Midocean Credit Opportunity Fund LP (Midocean Credit Partners),Yes,"$1,000,001","$5,000,000",,,,,"$100,001","$1,000,000"
+34,,6,,JP Morgan Chase - Checking & savings Accounts,N/A,"$1,000,001","$5,000,000",y,,,,"$1,001","$2,500"
+34,,7,,Capital One Bank - Checking & Savings,N/A,"$5,000,001","$25,000,000",y,,,,"$100,001","$1,000,000"
+34,,8,,Signature Bank - Checking,N/A,"$100,001","$250,000",y,,,,"$1,001","$2,500"
+34,,9,,"Bank United, NA - Money Market",N/A,"$100,001","$250,000",y,,,,"$1,001","$2,500"
+34,,10,,First Republic Bank - Checking,N/A,"$15,001","$50,000",y,,,,$0,$201
+34,,11,,Investment in Gold,N/A,"$100,001","$250,000",,,,,$0,$201
+34,,12,,WMTMF LLC (US Bank Cash Account),N/A,"$50,001","$100,000",,,,,$0,$201
+34,,1,Barclays Bank - Brokerage Account,AT&T Inc,N/A,$0,"$1,001",,y,y,,"$2,501","$5,000"
+34,NEW,2,Barclays Bank - Brokerage Account,Astrazenca PLC,N/A,$0,"$1,001",,,y,,$201,"$1,000"
+34,NEW,3,Barclays Bank - Brokerage Account,Crown Castle Intl,N/A,$0,"$1,001",,y,y,,$201,"$1,000"
+34,,4,Barclays Bank - Brokerage Account,General Electric,N/A,$0,"$1,001",,y,y,,"$1,001","$2,500"
+35,,5,Barclays Bank - Brokerage Account,Halliburton Co,N/A,$0,"$1,001",,y,y,,"$2,501","$5,000"
+35,,6,Barclays Bank - Brokerage Account,iShares Euro Finls Index ETF,Yes,$0,"$1,001",,,,,$201,"$1,000"
+35,,7,Barclays Bank - Brokerage Account,Kinder Morgan Inc,N/A,$0,"$1,001",,y,y,,"$2,501","$5,000"
+35,NEW,8,Barclays Bank - Brokerage Account,Kraft Heinz Co,N/A,$0,"$1,001",,,y,,$201,"$1,000"
+35,,9,Barclays Bank - Brokerage Account,Metlife Inc,N/A,$0,"$1,001",,y,y,,"$2,501","$5,000"
+35,NEW,10,Barclays Bank - Brokerage Account,Philip Morris Intl,N/A,$0,"$1,001",,,y,,$201,"$1,000"
+35,,11,Barclays Bank - Brokerage Account,Pfizer Inc,N/A,$0,"$1,001",,y,y,,$201,"$1,000"
+35,,12,Barclays Bank - Brokerage Account,Prudential Financial,N/A,$0,"$1,001",,y,y,,"$2,501","$5,000"
+35,,13,Barclays Bank - Brokerage Account,Raytheon Co,N/A,$0,"$1,001",,y,y,,"$2,501","$5,000"
+35,NEW,14,Barclays Bank - Brokerage Account,SPDR S&P Bank ETF,Yes,$0,"$1,001",,,,,"$1,001","$2,500"
+35,,15,Barclays Bank - Brokerage Account,Swiss Re Ltd,N/A,$0,"$1,001",,y,y,,"$1,001","$2,500"
+35,NEW,16,Barclays Bank - Brokerage Account,US Bancorp DE,N/A,$0,"$1,001",,y,y,,"$1,001","$2,500"
+35,NEW,17,Barclays Bank - Brokerage Account,Vanguard High Yield ETF,Yes,$0,"$1,001",,,,,$201,"$1,000"
+35,,18,Barclays Bank - Brokerage Account,Verizon Communications,N/A,$0,"$1,001",,y,y,,$201,"$1,000"
+35,,1,Oppenheimer Brokerage Account,Altria Group,N/A,$0,"$1,001",,y,y,,"$100,001","$1,000,000"
+35,,2,Oppenheimer Brokerage Account,Amgen Inc,N/A,$0,"$1,001",,y,y,,"$50,001","$100,000"
+36,,3,Oppenheimer Brokerage Account,Apple Inc,N/A,$0,"$1,001",,y,y,,"$100,001","$1,000,000"
+36,,4,Oppenheimer Brokerage Account,AT&T Inc,N/A,$0,"$1,001",,y,y,,"$100,001","$1,000,000"
+36,,5,Oppenheimer Brokerage Account,Bristol Myers Squibb Co,N/A,$0,"$1,001",,y,y,,"$100,001","$1,000,000"
+36,,6,Oppenheimer Brokerage Account,General MLS Inc,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+36,,7,Oppenheimer Brokerage Account,Gilead Sciences,N/A,$0,"$1,001",,,y,,"$100,001","$1,000,000"
+36,,8,Oppenheimer Brokerage Account,JPMorgan Chase & Co,N/A,$0,"$1,001",,y,y,,"$100,001","$1,000,000"
+36,,9,Oppenheimer Brokerage Account,Philip Morris International,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+36,,10,Oppenheimer Brokerage Account,Regeneron Pharmaceuticals,N/A,$0,"$1,001",,,y,,"$50,001","$100,000"
+36,,11,Oppenheimer Brokerage Account,United Parcel Service Inc,N/A,$0,"$1,001",,,y,,"$15,001","$50,000"
+36,,12,Oppenheimer Brokerage Account,Verizon Communications,N/A,$0,"$1,001",,y,y,,"$100,001","$1,000,000"
+36,,13,Oppenheimer Brokerage Account,Visa Inc,N/A,$0,"$1,001",,,y,,"$100,001","$1,000,000"
+36,,14,Oppenheimer Brokerage Account,Waste Mgmt Inc,N/A,$0,"$1,001",,,y,,"$15,001","$50,000"
+36,,15,Oppenheimer Brokerage Account,Wells Fargo & Co,N/A,$0,"$1,001",,y,y,,"$50,001","$100,000"
+36,,16,Oppenheimer Brokerage Account,Yahoo Inc,N/A,$0,"$1,001",,,y,,"$50,001","$100,000"
+36,,17,Oppenheimer Brokerage Account,Advantage Advisors Xanthus Fund,Yes,$0,"$1,001",,,,,"$100,001","$1,000,000"
+36,,1,"The Fred C Trump December 16, 1976 Trust- F/B/O Donald J. Trump",JP Morgan Chase - Savings Account,N/A,"$1,000,001","$5,000,000",y,,,,"$1,001","$2,500"
+37,,1,JP Morgan Clearing Corp - Brokerage Account,Apple Inc,N/A,$0,"$1,001",,y,y,,"$100,001","$1,000,000"
+37,,2,JP Morgan Clearing Corp - Brokerage Account,Caterpillar Inc,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+37,,3,JP Morgan Clearing Corp - Brokerage Account,Microsoft Corp,N/A,$0,"$1,001",,y,y,,"$100,001","$1,000,000"
+37,,4,JP Morgan Clearing Corp - Brokerage Account,Pepsico Inc,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+37,,5,JP Morgan Clearing Corp - Brokerage Account,ECO TEK 360 INC (fka Global Fashion Technologies),N/A,"$1,000","$15,000",,,,,$0,$201
+37,,6,JP Morgan Clearing Corp - Brokerage Account,Halliburton Co,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+37,,7,JP Morgan Clearing Corp - Brokerage Account,Phillips 66,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+37,NEW,1,The Donald J Trump Revocable Trust,Capital One Bank - Checking & Savings (Account funded 4/12/2017),N/A,"$50,000,001","$50,000,001",,,,,$0,$201
+37,,1,Deutsche Asset & Wealth Management A/C 1,Advance Auto Parts Inc,N/A,$0,"$1,001",,y,y,,"$2,501","$5,000"
+37,,2,Deutsche Asset & Wealth Management A/C 1,Invesco European Growth Fund,Yes,$0,"$1,001",,,,,"$2,501","$5,000"
+37,,3,Deutsche Asset & Wealth Management A/C 1,Alphabet Inc,N/A,$0,"$1,001",,y,,,"$15,001","$50,000"
+37,,4,Deutsche Asset & Wealth Management A/C 1,Alphabet Inc,N/A,$0,"$1,001",,y,,,"$15,001","$50,000"
+37,,5,Deutsche Asset & Wealth Management A/C 1,Amazon Inc,N/A,$0,"$1,001",,y,,,"$15,001","$50,000"
+38,,6,Deutsche Asset & Wealth Management A/C 1,American Water Works,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+38,,7,Deutsche Asset & Wealth Management A/C 1,Ameriprise Financial,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+38,,8,Deutsche Asset & Wealth Management A/C 1,Ametek Inc,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+38,,9,Deutsche Asset & Wealth Management A/C 1,Amgen Inc DTD 5/12/2012,N/A,$0,"$1,001",y,,y,,"$1,001","$2,500"
+38,,10,Deutsche Asset & Wealth Management A/C 1,Apple Inc,N/A,$0,"$1,001",,y,y,,"$50,001","$100,000"
+38,,11,Deutsche Asset & Wealth Management A/C 1,Apple Inc DTD 5/12/2012,N/A,$0,"$1,001",y,,y,,"$1,001","$2,500"
+38,,12,Deutsche Asset & Wealth Management A/C 1,Boeing Co,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+38,,13,Deutsche Asset & Wealth Management A/C 1,Broadcom Ltd,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+38,,14,Deutsche Asset & Wealth Management A/C 1,Burlington North Santa Fe Bond,N/A,$0,"$1,001",y,,y,,"$1,001","$2,500"
+38,,15,Deutsche Asset & Wealth Management A/C 1,Celgene Corp,N/A,$0,"$1,001",,,y,,"$50,001","$100,000"
+38,,16,Deutsche Asset & Wealth Management A/C 1,Cisco System Inc,N/A,$0,"$1,001",,y,y,,$201,"$1,000"
+38,,17,Deutsche Asset & Wealth Management A/C 1,Citigroup Inc,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+38,,18,Deutsche Asset & Wealth Management A/C 1,Coca Cola Co Bond,N/A,$0,"$1,001",y,,y,,"$1,001","$2,500"
+38,,19,Deutsche Asset & Wealth Management A/C 1,Comcast Corp,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+38,,20,Deutsche Asset & Wealth Management A/C 1,Conagra Inc,N/A,$0,"$1,001",,y,y,,"$1,001","$2,500"
+38,,21,Deutsche Asset & Wealth Management A/C 1,Costco Wholesale Corp,N/A,$0,"$1,001",,y,y,,"$2,501","$5,000"
+38,,22,Deutsche Asset & Wealth Management A/C 1,Crown Castle International,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+38,,23,Deutsche Asset & Wealth Management A/C 1,Discover Financial Services,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+39,,24,Deutsche Asset & Wealth Management A/C 1,Ecolab Inc,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+39,,25,Deutsche Asset & Wealth Management A/C 1,EOG Resources Inc,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+39,,26,Deutsche Asset & Wealth Management A/C 1,Express Scripts Holding Co,N/A,$0,"$1,001",,,y,,"$15,001","$50,000"
+39,,27,Deutsche Asset & Wealth Management A/C 1,Extra Space Storage Inc,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+39,,28,Deutsche Asset & Wealth Management A/C 1,General Electric Cap Corp Bond,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+39,,29,Deutsche Asset & Wealth Management A/C 1,General Elec Co Com,N/A,$0,"$1,001",,y,y,,"$50,001","$100,000"
+39,,30,Deutsche Asset & Wealth Management A/C 1,General Motors Finl Co Bond,N/A,$0,"$1,001",,y,y,,$201,"$1,000"
+39,,31,Deutsche Asset & Wealth Management A/C 1,Gilead Sciences,N/A,$0,"$1,001",,y,y,,"$100,001","$1,000,000"
+39,,32,Deutsche Asset & Wealth Management A/C 1,HCA Holdings,N/A,$0,"$1,001",,,y,,"$2,501","$5,000"
+39,NEW,33,Deutsche Asset & Wealth Management A/C 1,HCA INC DTD 81112011 6.5,N/A,$0,"$1,001",y,,y,,"$1,001","$2,500"
+39,,34,Deutsche Asset & Wealth Management A/C 1,Home Depot,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+39,,35,Deutsche Asset & Wealth Management A/C 1,Intuit Inc,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+39,,36,Deutsche Asset & Wealth Management A/C 1,JP Morgan Chase & Co Co,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+39,,37,Deutsche Asset & Wealth Management A/C 1,Jarden Corp,N/A,$0,"$1,001",,,y,,$201,"$1,000"
+39,,38,Deutsche Asset & Wealth Management A/C 1,Johnson & Johnson,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+39,,39,Deutsche Asset & Wealth Management A/C 1,JP Morgan Chase Bond,N/A,$0,"$1,001",y,,y,,$201,"$1,000"
+39,,40,Deutsche Asset & Wealth Management A/C 1,Kraft Heinz Co,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+39,,41,Deutsche Asset & Wealth Management A/C 1,L Brands Inc,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+40,,42,Deutsche Asset & Wealth Management A/C 1,McKesson HBOC,N/A,$0,"$1,001",,y,y,,"$50,001","$100,000"
+40,,43,Deutsche Asset & Wealth Management A/C 1,Mead Johnson Nutrition Co,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+40,,44,Deutsche Asset & Wealth Management A/C 1,Medivation Inc,N/A,$0,"$1,001",,,y,,"$15,001","$50,000"
+40,,45,Deutsche Asset & Wealth Management A/C 1,Merck & Co,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+40,,46,Deutsche Asset & Wealth Management A/C 1,Microsoft Corp,N/A,$0,"$1,001",,y,y,,"$50,001","$100,000"
+40,,47,Deutsche Asset & Wealth Management A/C 1,Morgan Stanley Bond,N/A,$0,"$1,001",y,,y,,$201,"$1,000"
+40,NEW,48,Deutsche Asset & Wealth Management A/C 1,Newell Brands Inc,N/A,$0,"$1,001",,,y,,$201,"$1,000"
+40,,49,Deutsche Asset & Wealth Management A/C 1,Nextera Energy,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+40,,50,Deutsche Asset & Wealth Management A/C 1,Nike Inc,N/A,$0,"$1,001",,y,y,,"$50,001","$100,000"
+40,,51,Deutsche Asset & Wealth Management A/C 1,Norfolk Southern Corp,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+40,,52,Deutsche Asset & Wealth Management A/C 1,Parker Hannifin Corp,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+40,,53,Deutsche Asset & Wealth Management A/C 1,Pepsico Inc,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+40,,54,Deutsche Asset & Wealth Management A/C 1,Pepsico Inc Bond,N/A,$0,"$1,001",y,,y,,"$1,001","$2,500"
+40,,55,Deutsche Asset & Wealth Management A/C 1,Pfizer Inc,N/A,$0,"$1,001",,y,y,,"$1,001","$2,500"
+40,,56,Deutsche Asset & Wealth Management A/C 1,Philip Morris International,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+40,,57,Deutsche Asset & Wealth Management A/C 1,Procter & Gamble,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+40,,58,Deutsche Asset & Wealth Management A/C 1,Prudential Financial,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+40,,59,Deutsche Asset & Wealth Management A/C 1,Roper Technologies Inc,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+41,,60,Deutsche Asset & Wealth Management A/C 1,Salesforce Co,N/A,$0,"$1,001",,,y,,"$5,001","$15,000"
+41,,61,Deutsche Asset & Wealth Management A/C 1,Charles Schwab Corp,N/A,$0,"$1,001",,,y,,"$5,001","$15,000"
+41,,62,Deutsche Asset & Wealth Management A/C 1,Sealed Air Corp,N/A,$0,"$1,001",,y,y,,$201,"$1,000"
+41,,63,Deutsche Asset & Wealth Management A/C 1,Smucker JM Co,N/A,$0,"$1,001",,y,y,,"$1,001","$2,500"
+41,,64,Deutsche Asset & Wealth Management A/C 1,T Mobile US Inc,N/A,$0,"$1,001",,,y,,"$1,001","$2,500"
+41,,65,Deutsche Asset & Wealth Management A/C 1,Thermo Fisher Scientific,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+41,,66,Deutsche Asset & Wealth Management A/C 1,TJX Cos Inc,N/A,$0,"$1,001",,y,y,,"$50,001","$100,000"
+41,,67,Deutsche Asset & Wealth Management A/C 1,Twenty First Century Fox,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+41,,68,Deutsche Asset & Wealth Management A/C 1,US Treasury Notes/Bonds,N/A,$0,"$1,001",y,,y,,"$1,001","$2,500"
+41,,69,Deutsche Asset & Wealth Management A/C 1,VF Corp,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+41,,70,Deutsche Asset & Wealth Management A/C 1,Visa Inc,N/A,$0,"$1,001",,y,y,,"$50,001","$100,000"
+41,,71,Deutsche Asset & Wealth Management A/C 1,Wells Fargo & Co,N/A,$0,"$1,001",,y,y,,"$15,001","$50,000"
+41,,1,Deutsche Asset & Wealth Management A/C 2,American Express Credit,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+41,NEW,2,Deutsche Asset & Wealth Management A/C 2,Anheuser-Bush,N/A,$0,"$1,001",y,,y,,"$1,001","$2,500"
+41,,3,Deutsche Asset & Wealth Management A/C 2,Apple Inc DTD 5/3/2013,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+41,,4,Deutsche Asset & Wealth Management A/C 2,AT&T Inc DTD 8/18/2011,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+42,,5,Deutsche Asset & Wealth Management A/C 2,Bank of Nova Scotia,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+42,,6,Deutsche Asset & Wealth Management A/C 2,Berkshire Hathaway Financial,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+42,,7,Deutsche Asset & Wealth Management A/C 2,BHP Billiton Financial USA,N/A,$0,"$1,001",y,,y,,"$5,001","$15,000"
+42,,8,Deutsche Asset & Wealth Management A/C 2,Caterpillar Financial SE,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+42,,9,Deutsche Asset & Wealth Management A/C 2,Chevron Corp,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+42,,10,Deutsche Asset & Wealth Management A/C 2,Citigroup Inc,N/A,$0,"$1,001",y,,y,,"$5,001","$15,000"
+42,,11,Deutsche Asset & Wealth Management A/C 2,Conagra Foods,N/A,$0,"$1,001",y,,y,,$201,"$1,000"
+42,NEW,12,Deutsche Asset & Wealth Management A/C 2,Credit Suisse New York,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+42,,13,Deutsche Asset & Wealth Management A/C 2,Deutsche Government Money Market,N/A,$0,"$1,001",,y,y,,"$5,001","$15,000"
+42,,14,Deutsche Asset & Wealth Management A/C 2,Deutsche Money Market Series,N/A,$0,"$1,001",y,,y,,$201,"$1,000"
+42,,15,Deutsche Asset & Wealth Management A/C 2,Ecolab Inc,N/A,$0,"$1,001",y,,y,,"$5,001","$15,000"
+42,NEW,16,Deutsche Asset & Wealth Management A/C 2,Exxon Mobil Corp,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+42,,17,Deutsche Asset & Wealth Management A/C 2,Fed Home LN DTD 7/25/2016,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+42,,18,Deutsche Asset & Wealth Management A/C 2,Ford Motor Credit Co DTD 8/7/2012,N/A,$0,"$1,001",y,,y,,$201,"$1,000"
+42,,19,Deutsche Asset & Wealth Management A/C 2,Fannie Mae DTD 1/29/1999,N/A,$0,"$1,001",y,,y,,$201,"$1,000"
+42,,20,Deutsche Asset & Wealth Management A/C 3,Ford Motor DTD 12/18/2006,N/A,$0,"$1,001",y,,y,,"$5,001","$15,000"
+42,,21,Deutsche Asset & Wealth Management A/C 2,Goldman Sachs Group,N/A,$0,"$1,001",y,,y,,"$15,001","$50,000"
+42,,22,Deutsche Asset & Wealth Management A/C 2,IBM Corp,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+43,,23,Deutsche Asset & Wealth Management A/C 2,International Bank Recon & Develop,N/A,$0,"$1,001",y,,y,,"$1,001","$2,500"
+43,,24,Deutsche Asset & Wealth Management A/C 2,JP Morgan Chase & Co,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+43,,25,Deutsche Asset & Wealth Management A/C 2,John Deere Capital Corp,N/A,$0,"$1,001",y,,y,,"$5,001","$15,000"
+43,,26,Deutsche Asset & Wealth Management A/C 2,McDonald's Corp,N/A,$0,"$1,001",y,,y,,"$1,001","$2,500"
+43,NEW,27,Deutsche Asset & Wealth Management A/C 2,McKesson Corp,N/A,$0,"$1,001",y,,y,,$201,"$1,000"
+43,,28,Deutsche Asset & Wealth Management A/C 2,Morgan Stanley,N/A,$0,"$1,001",y,,y,,"$15,001","$50,000"
+43,,29,Deutsche Asset & Wealth Management A/C 2,NBC Universal,N/A,$0,"$1,001",y,,y,,$201,"$1,000"
+43,,30,Deutsche Asset & Wealth Management A/C 2,New York City,N/A,$0,"$1,001",y,,y,,$201,"$1,000"
+43,,31,Deutsche Asset & Wealth Management A/C 2,Oracle Corp,N/A,$0,"$1,001",y,,y,,$201,"$1,000"
+43,,32,Deutsche Asset & Wealth Management A/C 2,Pepsico Inc,N/A,$0,"$1,001",y,,y,,"$1,001","$2,500"
+43,NEW,33,Deutsche Asset & Wealth Management A/C 2,PNC Bank NA,N/A,$0,"$1,001",y,,y,,"$1,001","$2,500"
+43,,34,Deutsche Asset & Wealth Management A/C 2,Royal Bank of Canada,N/A,$0,"$1,001",y,,y,,"$5,001","$15,000"
+43,,35,Deutsche Asset & Wealth Management A/C 2,Shell International,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+43,,36,Deutsche Asset & Wealth Management A/C 2,Thermo Fisher Scientific,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+43,,37,Deutsche Asset & Wealth Management A/C 2,Toronto Dominion Bank,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+43,,38,Deutsche Asset & Wealth Management A/C 2,Total Capital International SA,N/A,$0,"$1,001",y,,y,,"$5,001","$15,000"
+43,,39,Deutsche Asset & Wealth Management A/C 2,Toyota Motor Credit Corp,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+43,,40,Deutsche Asset & Wealth Management A/C 2,United States Treasury Bills/Notes,N/A,$0,"$1,001",y,,y,,"$5,001","$15,000"
+44,,41,Deutsche Asset & Wealth Management A/C 2,Verizon Communications,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+44,,42,Deutsche Asset & Wealth Management A/C 2,Wal-Mart Stores Inc,N/A,$0,"$1,001",y,,y,,$201,"$1,000"
+44,,43,Deutsche Asset & Wealth Management A/C 2,Wells Fargo & Co,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+44,,44,Deutsche Asset & Wealth Management A/C 2,Westpac Banking Corp,N/A,$0,"$1,001",y,,y,,"$2,501","$5,000"
+44,,0,Family Trust 1,Family Trust 1,N/A,,,,y,y,,"$5,001","$15,000"
+44,,1,Family Trust 1,iShares MSCI EAFE Index Fund,Yes,"$15,001","$50,000",,,,,,
+44,NEW,2,Family Trust 1,Dodge & Cox Income Fund,Yes,"$1,001","$15,000",,,,,,
+44,NEW,3,Family Trust 1,iShares Inc MSCI Japan New,Yes,"$1,001","$15,000",,,,,,
+44,,4,Family Trust 1,Dodge & Cox International Stock Fund,Yes,"$1,000","$15,000",,,,,,
+44,NEW,5,Family Trust 1,AMG Managers Pictet International Fund Class I,Yes,"$1,001","$15,000",,,,,,
+44,NEW,6,Family Trust 1,John Han II-ABS ret Curr-I,Yes,"$1,001","$15,000",,,,,,
+44,,7,Family Trust 1,Blackrock High Yield Point,Yes,"$1,001","$15,000",,,,,,
+44,NEW,8,Family Trust 1,Chilton Strategic European Equities Fund,Yes,"$1,001","$15,000",,,,,,
+44,NEW,9,Family Trust 1,AQR Managed Futures STR-R6,Yes,"$1,001","$15,000",,,,,,
+44,,10,Family Trust 1,Primecap Odyssey Stock Fund,Yes,"$15,001","$50,000",,,,,,
+44,NEW,11,Family Trust 1,US Cash Bank Cash Account,N/A,"$1,001","$15,000",,,,,,
+44,,12,Family Trust 1,iShares Russell Midcap Index Fund,Yes,"$15,001","$50,000",,,,,,
+45,,13,Family Trust 1,SPDR S&P 500 ETF Trust,Yes,"$15,001","$50,000",,,,,,
+45,,14,Family Trust 1,FMI Large Cap Fund,Yes,"$15,001","$50,000",,,,,,
+45,,15,Family Trust 1,JPM US Large Cap Core Plus Fund,Yes,"$15,001","$50,000",,,,,,
+45,,16,Family Trust 1,Neuberger Ber MU/C Opp,Yes,"$1,000","$15,000",,,,,,
+45,NEW,17,Family Trust 1,MFS Emerging Markets Debt Fund,Yes,"$15,001","$50,000",,,,,,
+45,NEW,18,Family Trust 1,PIMCO Unconstrained Bond-INS,Yes,"$1,000","$15,000",,,,,,
+45,,19,Family Trust 1,Artisan International Value Fund,Yes,"$1,000","$15,000",,,,,,
+45,,20,Family Trust 1,JPM Mid Cap Value Fund,Yes,"$1,000","$15,000",,,,,,
+45,,21,Family Trust 1,JPM SH Int Muni Bond Fund,Yes,"$15,001","$50,000",,,,,,
+45,NEW,22,Family Trust 1,AQR Long-Short Equity-R6,Yes,"$1,000","$15,000",,,,,,
+45,,23,Family Trust 1,Prudential Total Return Bond,Yes,$0,$201,,,,,,
+45,,24,Family Trust 1,Vanguard INTM TRM Inv G,Yes,$0,$201,,,,,,
+45,,0,Family Trust 2,Family Trust 2,Yes,,,,y,y,,"$5,000","$15,000"
+45,NEW,1,Family Trust 2,iShares Inc MSCI Japan New,Yes,"$1,000","$15,000",,,,,,
+45,,2,Family Trust 2,JPM US Large Cap Core Plus Fund,Yes,"$15,001","$50,000",,,,,,
+45,NEW,3,Family Trust 2,Chilton Strategic European Equities Fund,Yes,"$1,000","$15,000",,,,,,
+46,,4,Family Trust 2,JPM SH Int Muni Bond Fund,Yes,"$15,001","$50,000",,,,,,
+46,NEW,5,Family Trust 2,Dodge & Cox Income Fund,Yes,"$1,000","$15,000",,,,,,
+46,,6,Family Trust 2,iShares Russell Midcap Index Fund,Yes,"$15,001","$50,000",,,,,,
+46,,7,Family Trust 2,Artisan International Value Fund,Yes,"$15,001","$50,000",,,,,,
+46,,8,Family Trust 2,Ishares MSCI EAFE Index Fund ,Yes,"$15,001","$50,000",,,,,,
+46,NEW,9,Family Trust 2,US Cash Bank Cash Account,N/A,"$15,001","$50,000",,,,,,
+46,NEW,10,Family Trust 2,AMG Managers Pictet International Fund Class I,Yes,"$1,001","$15,000",,,,,,
+46,,11,Family Trust 2,Primecap Odyssey Stock Fund,Yes,"$15,001","$50,000",,,,,,
+46,NEW,12,Family Trust 2,John Han II-ABS ret Curr-I,Yes,"$1,001","$15,000",,,,,,
+46,,13,Family Trust 2,JPM Global Resources ENH Index Fund,Yes,"$15,001","$50,000",,,,,,
+46,,14,Family Trust 2,Equinox Funds TR IPM Systmatc,Yes,"$1,001","$15,000",,,,,,
+46,NEW,15,Family Trust 2,PIMCO Unconstrained Bond-INS,Yes,"$1,001","$15,000",,,,,,
+46,,16,Family Trust 2,Blackrock High Yield Point,Yes,"$15,001","$50,000",,,,,,
+46,,17,Family Trust 2,FMI Large Cap Fund,Yes,"$1,001","$15,000",,,,,,
+46,NEW,18,Family Trust 2,MFS Emerging Markets Debt Fund,Yes,"$1,001","$15,000",,,,,,
+46,,19,Family Trust 2,JPM Mid Cap Value Fund,Yes,"$15,001","$50,000",,,,,,
+46,NEW,20,Family Trust 2,SPDR S&P 500 ETF Trust,Yes,"$15,001","$50,000",,,,,,
+46,,21,Family Trust 2,AQR Long-Short Equity-R6,Yes,"$1,001","$15,000",,,,,,
+47,,22,Family Trust 2,Dodge & Cox International Stock Fund,Yes,"$1,001","$15,000",,,,,,
+47,,23,Family Trust 2,Neuberger Ber MU/C Opp,Yes,"$15,001","$50,000",,,,,,
+47,,24,Family Trust 2,Prudential Total Return Bond,Yes,$0,$201,,,,,,
+47,,25,Family Trust 2,Vanguard Internim TRM Inv G,Yes,$0,$201,,,,,,
+47,,0,Family Trust 3,Family Trust 3,Yes,,,,y,y,,"$5,001","$15,000"
+47,,1,Family Trust 3,iShares Russell Midcap Index Fund,Yes,"$15,001","$50,000",,,,,,
+47,,2,Family Trust 3,Primecap Odyssey Stock Fund,Yes,"$15,001","$50,000",,,,,,
+47,,3,Family Trust 3,Blackrock High Yield Point,Yes,"$15,001","$50,000",,,,,,
+47,,4,Family Trust 3,JP SH Int Muni Bond Fund,Yes,"$15,001","$50,000",,,,,,
+47,,5,Family Trust 3,iShares MSCI EAFE Index Fund,Yes,"$15,001","$50,000",,,,,,
+47,,6,Family Trust 3,JPM US Large Cap Core Plus Fund,Yes,"$15,001","$50,000",,,,,,
+47,NEW,7,Family Trust 3,MFS Emerging Markets Debt Fund,Yes,"$1,001","$15,000",,,,,,
+47,NEW,8,Family Trust 3,AQR Managed Futures STR-R6,Yes,"$1,001","$15,000",,,,,,
+47,,9,Family Trust 3,NEW,Yes,"$15,001","$50,000",,,,,,
+47,,10,Family Trust 3,SPDR S&P 500 ETF Trust,Yes,"$50,001","$100,000",,,,,,
+47,,11,Family Trust 3,Dodge & Cox Income Fund,Yes,"$1,001","$15,000",,,,,,
+47,NEW,12,Family Trust 3,AMG Managers Pictet International Fund Class I,Yes,"$1,001","$15,000",,,,,,
+48,NEW,13,Family Trust 3,iShares Inc MSCI Japan New,Yes,"$1,001","$15,000",,,,,,
+48,,14,Family Trust 3,Neuberger Ber MU/C Opp,Yes,"$15,001","$50,000",,,,,,
+48,,15,Family Trust 3,Artisan International Value Fund,Yes,"$15,001","$50,000",,,,,,
+48,NEW,16,Family Trust 3,PIMCO Unconstrained Bond-INS,Yes,"$1,001","$15,000",,,,,,
+48,NEW,17,Family Trust 3,John Han II-ABS ret Curr-I,Yes,"$1,001","$15,000",,,,,,
+48,NEW,18,Family Trust 3,AQR Long-Short Equity-R6,Yes,"$1,001","$15,000",,,,,,
+48,,19,Family Trust 3,JPM Mid Cap Value Fund,Yes,"$15,001","$50,000",,,,,,
+48,,20,Family Trust 3,JPM Global Resources ENH Index Fund,Yes,"$50,001","$100,000",,,,,,
+48,,21,Family Trust 3,Chilton Strategic European Equities Fund,Yes,"$1,001","$15,000",,,,,,
+48,,22,Family Trust 3,US Cash Bank Cash Account,N/A,"$15,001","$50,000",,,,,,
+48,,23,Family Trust 3,Prudential Total Return Bond,Yes,$0,$201,,,,,,
+48,,24,Family Trust 3,Vanguard Intm TRM Inv,Yes,$0,$201,,,,,,
+48,,25,Family Trust 3,FMI Large Cap Fund,Yes,$0,$201,,,,,,

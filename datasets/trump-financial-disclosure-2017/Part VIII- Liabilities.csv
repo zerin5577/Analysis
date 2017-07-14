@@ -1,0 +1,17 @@
+Page,#,Creditor Name,Type,Min,Max,Year Incurred,Rate,Term
+50,1,Ladder Capital Finane,Trump Tower Commercial LLC - mortgage,"$50,000,001","$50,000,001",2012,4.20%,2022
+50,2,Ladder Capital Finance I LLC,40 Wall Street LLC - loan,"$50,000,001","$50,000,001",2015,3.67%,2025
+50,3,Deutsche Bank Trust Company Americas,Trump National Doral - mortgage,"$50,000,001","$50,000,001",2012,LIBOR+1.75% or Prime minus .75%,2023
+50,4,Deutsche Bank Trust Company Americas,Trump National Doral - mortgage,"$5,000,001","$25,000,000",2012,LIBOR+1.75% or Prime minus .75%,2023
+50,5,The Bank of New York Mellon Trust Company NA as trustees,Fifty-Seventh Street Assoc/issuer of bonds,"$500,001","$1,000,000",1996,7.13%,2017
+50,6,Investors Savings Bank,Trump Park Avenue LLC - mortgage,"$5,000,001","$25,000,000",2010,3.25%,2020
+50,7,Ladder Capital Finance LLC,Trump Plaza LLC - mortgage,"$5,000,001","$25,000,000",2014,3.85%,2024
+50,8,Amboy Bank,Trump National Golf Club Colts Neck Mortgage,"$5,000,001","$25,000,000",2008,5.25%,2028
+50,9,Chevy Chase Trust Holdings Ic as successor in interest to Bondy Way Development,Trump National Gold Club Washington DC Mortgage,"$5,000,001","$25,000,000",2009,5.50%,2029
+50,10,Royal Bank America,Seven Springs - mortgage,"$5,000,001","$25,000,000",2000,4.00%,2019
+50,11,UBS Real Estate Investments Inc,TIHT Commercial LLC - mortgage,"$5,000,001","$25,000,000",2006,6.18%,2016
+50,12,Merrill Lynch Credit Corp,1094 S Ocean Blvd - mortgage,"$100,001","$250,000",1994,Six month LIBOR + 1.50%,2019
+50,13,Merrill Lynch Credit Corp,124 Woodbridge Road - mortgage,"$50,001","$100,000",1993,Six month LIBOR + 1.75%,2019
+50,14,Chicago Unit Acquisition LLC,TIHT Chicago springing loan,"$50,000,001","$50,000,001",2012,Pime + 5%,springing loan
+50,15,Deutsche Bank Trust Company Americas,TIHT Chicago - term loan,"$25,000,001","$50,000,000",2012,LIBOR + 2.00% or Prime minus .50%,2024
+50,16,Deutsche Bank Trust Company Americas,Trump Old Post Office - loan,"$50,000,001","$50,000,001",2015,LIBOR or Prime + 2.00%,2024

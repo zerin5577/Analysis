@@ -1,0 +1,141 @@
+"Asset values and income are colored to denote the change in value from the previous year's filing (increase, decrease, no change)
+",,,,,,,,,,,,,,,,,,,,,,,
+2017_ID #,New 2017 Asset,2017_Page,2017_Description,2017_Underlying Assets,2017_Location,2017_EIF,2017_attached schedule,2017_Min Value,2017_Max Value,%Change_Value,2016_Min Value,2016_Max Value,2017_Income Type,2017_Min Income,2017_Max Income,2017_Income Exact,%Change_Income,2016_Min Income,2016_Max Income,2016_Income Exact,2016_ID #,2016_Page,2016_Description
+2,,14,40 Wall Street LLC,commercial real estate,"New, York, NY",N/A,5,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",rent,"$5,000,001","$5,000,001",,0%,"$5,000,001","$5,000,001",,2,14,40 Wall Street LLC
+4,,14,401 North Wabash Venture LLC,residential & commercial real estate,"Chicago,IL",N/A,8,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",rent/condo sales,"$5,000,001","$5,000,001","$90,249",-722%,"$5,000,001","$5,000,001","$742,005",4,14,401 North Wabash Venture LLC
+5,,14,809 North Canon LLC,residential real estate,"Beverly Hills, CA",N/A,9,"$5,000,001","$25,000,000",0%,"$5,000,001","$25,000,000",,$0,$201,,0%,$0,$201,,5,14,809 North Canon LLC
+7,,14,845 UN LP,commercial real estate,"New, York, NY",N/A,12,"$5,000,001","$25,000,000",0%,"$5,000,001","$25,000,000",rent,"$1,000,001","$5,000,000",,0%,"$1,000,001","$5,000,000",,7,14,845 UN LP
+8,,14,Caribusiness Investments SRL,land,Domincan Republic,N/A,25,"$1,000,001","$5,000,000",0%,"$1,000,001","$5,000,000",,$0,$201,,0%,,,"$2,000,000",8,14,Caribusiness Investments SRL
+10,,14,Country Apartments LLC,bank account,"New, York, NY",N/A,32,"$1,001","$15,000",0%,"$1,001","$15,000",,$0,$201,,0%,$0,$201,,10,14,Country Apartments LLC
+11,,14,Country Properties LLC,residential real estate,"Norfolk, VA",N/A,34,"$50,001","$100,000",0%,"$50,001","$100,000",,$0,$201,,0%,$0,$201,,11,14,Country Properties LLC
+12,,14,DB Pace Acquisition LLC,"land, building & ff&e","New York, NY",N/A,36,"$1,000,001","$5,000,000",0%,"$1,000,001","$5,000,000",,$0,$201,,-100%,"$100,001","$1,000,000",,12,14,DB Pace Acquisition LLC
+13,,15,DJT Aerospace LLC,aircraft,"New York, NY",N/A,39,"$1,000,001","$5,000,000",0%,"$1,000,001","$5,000,000",rent,$0,$201,,0%,$0,$201,,13,15,DJT Aerospace LLC
+14,,15,DJT Holdings LLC,holding company,"New York, NY",N/A,42,"$1,000,001","$5,000,000",0%,"$1,000,001","$5,000,000",interest,"$15,000","$50,000",,-57%,"$50,001","$100,000",,14,15,DJT Holdings LLC
+17,,15,DJT Operations I LLC,aircraft,"New York, NY",N/A,46,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",rent,"$1,000,001","$5,000,000",,0%,"$1,000,001","$5,000,000",,17,15,DJT Operations I LLC
+18,,15,DT Connect II LLC,aircraft,"Palm Beach, FL",N/A,55,"$1,000,001","$5,000,000",0%,"$1,000,001","$5,000,000",,$0,$201,,0%,$0,$201,,18,15,DT Connect II LLC
+20,,15,DT Dubai Golf Manager LLC,bank account/management deal ,"Dubai,UAE",N/A,59,"$1,001","$15,000",1500%,$0,"$1,000",management fees,,,"$12,984",-100%,"$1,000,001","$5,000,000",,20,15,DT Dubai Golf Manager LLC
+21,,15,DT Home Marks International LLC,bank account/license deal ,"New York, NY",N/A,63,"$1,001","$15,000",1500%,$0,"$1,000",royalties,"$100,001","$1,000,000",,0%,"$100,001","$1,000,000",,21,15,DT Home Marks International LLC
+24,,15,Excel Venture I LLC,residential rental property,"St Martin, French West Indies",N/A,98,"$25,000,001","$50,000,000",0%,"$25,000,001","$50,000,000",rent,"$100,001","$1,000,000",,0%,"$100,001","$1,000,000",,24,16,Excel Venture I LLC
+26,,15,Fifty-Seventh Street Associates LLC,commercial real estate,"New York, NY",N/A,100,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",rent,"$5,000,001","$5,000,001",,0%,"$5,000,001","$5,000,001",,26,16,Fifty-Seventh Street Associates LLC
+30,,16,Trump National Golf Club - Jupiter,golf club,"Jupiter, FL",N/A,117,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",golf related revenue,,,"$20,131,872",11%,,,"$17,903,803",30,16,Trump National Golf Club - Jupiter
+31,,16,Lamington Family Holdings LLC,land,"Besminister, NJ",N/A,119,"$100,001","$250,000",0%,"$100,001","$250,000",,$0,$201,,0%,$0,$201,,31,16,Lamington Family Holdings LLC
+32,,16,Trump National Golf Club - Bestminster,golf club,"Besminister, NJ",N/A,120,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",gold related revenue,,,"$19,752,500",-4%,,,"$20,572,150",32,16,Trump National Golf Club - Bestminster
+34,,16,Mar-A-Lago Club LLC,resort,"Palm Beach, FL",N/A,126,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",resort related revenue,,,"$37,251,635",20%,,,"$29,795,497",34,16,Mar-A-Lago Club LLC
+36,,16,Pine Hill Development LLC,golf club,"Pine Hill, NJ",N/A,142,"$100,001","$250,000",900%,"$10,001","$25,000",,$0,$201,,0%,$0,$201,,36,16,Pine Hill Development LLC
+37,,16,Seven Springs LLC,real estate,"Mt Kisco, NY",N/A,153,"$25,000,001","$50,000,000",-25%,"$50,000,001","$50,000,001",interest,"$2,501","$5,000",,3632%,$0,$201,,37,16,Seven Springs LLC
+38,,16,Trump Turnberry,golf courses & resort,"Turnberry, Scotland",N/A,157,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",golf related revenue,,,"$14,487,619",-26%,,,"$18,186,951",38,16,Trump Turnberry
+39,,16,T International Realty LLC,bank account/brokerage company,"New York, NY",N/A,160,"$250,001","$500,000",-50%,"$500,001","$1,000,000",commissions,,,"$3,374,860",-14%,,,"$3,863,327",39,16,T International Realty LLC
+40,,16,THC Central Reservations LLC,hotel company,"New York, NY",N/A,167,"$50,001","$100,000",0%,"$50,001","$100,000",,$0,$201,,0%,$0,$201,,40,17,THC Central Reservations LLC
+41,,17,THC China Develoment LLC,developer,"New York, NY",N/A,169,"$1,001","$15,000",0%,"$1,001","$15,000",,$0,$201,,0%,$0,$201,,41,17,THC China Develoment LLC
+42,NEW,17,THC Sales & Marketing LLC,management co,"New York, NY",N/A,184,"$100,001","$250,000",,,,,$0,$201,,100%,,,,,,
+43,,17,The East 61 Street Company LP,residential real estate,"New York, NY",N/A,199,"$5,000,001","$25,000,000",0%,"$5,000,001","$25,000,000",,$0,$201,,0%,$0,$201,,43,17,The East 61 Street Company LP
+44,,17,The Trump Corporation,management co,"New York, NY",N/A,200,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",management & releated fees,,,"$18,045,141",64%,,,"$6,484,095",44,17,The Trump Corporation
+45,,17,The Trump-Equitable Fifth Avenue Company,bank account,"New York, NY",N/A,208,"$1,001","$15,000",1500%,$0,"$1,000",rent,"$100,001","$1,000,000",,0%,"$100,001","$1,000,000",,45,17,The Trump-Equitable Fifth Avenue Company
+46,,17,Trump International Golf Links - Doonbeg,golf course & resort,"Doonberg, Ireland",N/A,211,"$5,000,001","$25,000,000",0%,"$5,000,001","$25,000,000",golf related revenue,,,"$12,498,172",-760%,,,"$107,520,645",46,17,Trump International Golf Links - Doonbeg
+47,,17,TIHT Commercial LLC,commercial real estate,"New York, NY",N/A,218,"$5,000,001","$25,000,000",0%,"$5,000,001","$25,000,000",rent,"$1,000,001","$5,000,000",,0%,"$1,000,001","$5,000,000",,47,17,TIHT Commercial LLC
+48,,17,TIHT Holding Comapny LLC,hotel condo unit,"New York, NY",N/A,219,"$1,000,001","$5,000,000",0%,"$1,000,001","$5,000,000",rent,"$100,001","$1,000,000",,0%,"$100,001","$1,000,000",,48,17,TIHT Holding Comapny LLC
+49,,17,Trump National Golf Club - Charlotte,golf club,"Charlotte, NC",N/A,223,"$5,000,001","$25,000,000",0%,"$5,000,001","$25,000,000",golf related revenue,,,"$15,016,404",6%,,,"$14,125,381",49,17,Trump National Golf Club - Charlotte
+50,,17,Trump National Golf Club- Hudson Valley,golf club,"Hopewell Junction, NY",N/A,225,"$5,000,001","$25,000,000",0%,"$5,000,001","$25,000,000",golf related revenue,,,"$5,323,573",-5%,,,"$5,574,955",50,17,Trump National Golf Club- Hudson Valley
+51,,18,Trump National Golf Club - Philadelphia,golf club,"Pine Hill, NJ",N/A,229,"$5,000,001","$25,000,000",0%,"$5,000,001","$25,000,000",golf related revenue,,,"$5,258,866",-7%,,,"$5,641,122",51,17,Trump National Golf Club - Philadelphia
+52,,18,Trump 106 CPS LLC,bank account,"New York, NY",N/A,234,"$15,001","$50,000",0%,"$15,001","$50,000",,$0,$201,,0%,$0,$201,,52,18,Trump 106 CPS LLC
+55,,18,Trump 845 UN MGR Corp,bank account,"New York, NY",N/A,237,"$1,001","$15,000",0%,"$1,001","$15,000",,$0,$201,,0%,$0,$201,,55,18,Trump 845 UN MGR Corp
+57,,18,Trump Books LLC The Midas Touch,bank account/book deal,"New York, NY",N/A,243,$0,"$1,000",0%,$0,"$1,000",royalties,"$5,001","$15,000",,-69%,"$15,001","$50,000",,57,18,Trump Books LLC The Midas Touch
+59,,18,Trump Carousel LLC,bank account/operating agreement,"New York, NY",N/A,250,"$15,001","$50,000",-81%,"$100,001","$250,000",admissions,,,"$671,728",-5%,,,"$702,961",59,18,Trump Carousel LLC
+61,,18,Trump CPS LLC,commercial & residential real estate,"New York, NY",N/A,269,"$25,000,001","$50,000,000",0%,"$25,000,001","$50,000,000",rent/condo sales,"$1,000,001","$5,000,000","$3,170,000",100%,"$1,000,001","$5,000,000",,61,18,Trump CPS LLC
+64,,18,Trump National Doral,golf courses & resort,"Miami, FL",N/A,279,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",golf resort related revenues,,,"$115,865,590",-14%,,,"$131,892,107",64,18,Trump National Doral
+65,,18,Trump Ferry Point LLC,operating agreement/golf course,"New York, NY",N/A,283,"$5,000,001","$25,000,000",0%,"$5,000,001","$25,000,000",golf related revenue,,,"$7,300,157",-9%,,,"$7,930,134",65,18,Trump Ferry Point LLC
+66,,19,Trump Golf Acquisitions LLC,bank account,"New York, NY",N/A,287,"$1,001","$15,000",1500%,$0,"$1,000",golf related revenue,,,"$17,539",-25%,,,"$21,985",66,19,Trump Golf Acquisitions LLC
+67,,19,Trump Home Marks LLC,bank account/license deal ,"New York, NY",N/A,291,$0,"$1,000",0%,$0,"$1,000",royalties,"$15,001","$50,000",,-94%,"$100,001","$1,000,000",,67,19,Trump Home Marks LLC
+68,,19,Trump Ice LLC,bank account/wholesale company,"New York, NY",N/A,294,"$1,001","$15,000",-75%,"$15,001","$50,000",sales,,,"$396,161",-4%,,,"$413,339",68,19,Trump Ice LLC
+69,,19,Trump International Golf Links - Scotland,golf course,"Aberdeen, Scotland",N/A,297,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",golf related revenue,,,"$3,803,033",-28%,,,"$4,880,743",69,19,Trump International Golf Links - Scotland
+70,,19,Trump International Golf Club - Florida,golf club,"West Palm Beach, FL",N/A,299,"$25,000,001","$50,000,000",0%,"$25,000,001","$50,000,000",golf related revenue,,,"$18,411,472",5%,,,"$17,510,455",70,19,Trump International Golf Club - Florida
+71,,19,Trump International Hotel Hawaii LLC,bank account/management & license agreements,"Waikiki, HI",N/A,300,"$1,001","$15,000",1500%,$0,"$1,000",royalties/management fees,"$100,001","$1,000,000","$2,538,973",5%,"$100,001","$1,000,000","$2,402,462",71,19,Trump International Hotel Hawaii LLC
+72,,19,Trump International Hotels Management LLC,management co,"New York, NY",N/A,301,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",management fees,,,"$2,888,093",-17%,,,"$3,383,209",72,19,Trump International Hotels Management LLC
+73,NEW,19,Trump Las Vegas Devlopment LLC,develpment deal with Trump Ruffin Tower I LLC,"Las Vegas, NV",N/A,308,"$1,000,001","$5,000,000",,,,development fees,,,"$8,154,142",100%,,,,,,
+74,NEW,19,Trump Las Vegas Member LLC,bank account,"Las Vegas, NV",N/A,310,$0,"$1,001",,,,sponser fee,,,"$2,631,300",100%,,,,,,
+76,,20,Trump Marks Asia LLC,residential real estate,"Water Park Place, VA",N/A,316,"$500,001","$1,000,000",0%,"$500,001","$1,000,000",,$0,$201,,0%,$0,$201,,76,19,Trump Marks Asia LLC
+78,,20,Trump Marks Instanbul II LLC,bank account/license deal ,"New York, NY",N/A,342,"$15,001","$50,000",6400%,$0,"$1,000",royalties,"$1,000,001","$5,000,000",,0%,"$1,000,001","$5,000,000",,78,19,Trump Marks Instanbul II LLC
+79,,20,Trump Marks LLC,bank account/license deal ,"New York, NY",N/A,347,"$15,001","$50,000",6400%,$0,"$1,000",royalties,"$50,001","$100,000",,-86%,"$100,001","$1,000,000",,79,20,Trump Marks LLC
+80,,20,Trump Marks Matress LLC,bank account/license deal ,"New York, NY",N/A,350,$0,"$1,000",0%,$0,"$1,000",royalties,"$100,001","$1,000,000",,-82%,"$1,000,001","$5,000,000",,80,20,Trump Marks Matress LLC
+81,,20,Trump Marks Menswear LLC,bank account/license deal ,"New York, NY",N/A,352,$0,"$1,000",0%,$0,"$1,000",royalties,"$100,001","$1,000,000",,0%,"$100,001","$1,000,000",,81,20,Trump Marks Menswear LLC
+82,,20,Trump Marks New Rochelle LLC,bank account/license deal ,"New York, NY",N/A,359,$0,"$1,000",0%,$0,"$1,000",royalties,"$5,001","$15,000",,-98%,"$100,001","$1,000,000",,82,20,Trump Marks New Rochelle LLC
+83,,20,Trump Marks Panama LLC,bank account/license deal ,"New York, NY",N/A,363,$0,"$1,000",-98%,"$15,001","$50,000",royalties,"$100,001","$1,000,000",,-82%,"$1,000,001","$5,000,000",,83,20,Trump Marks Panama LLC
+87,,21,Trump Marks Waikiki LLC,bank account/license deal ,"New York, NY",N/A,391,$0,"$1,000",0%,$0,"$1,000",royalties,"$100,001","$1,000,000",,0%,"$100,001","$1,000,000",,87,20,Trump Marks Waikiki LLC
+90,,21,Trump Miami Resort Management LLC,bank account,"Miami, FL",N/A,396,"$1,000,001","$5,000,000",300%,"$500,000","$1,000,000",,$0,$201,,0%,$0,$201,,90,20,Trump Miami Resort Management LLC
+91,,21,Trump Model Management LLC,modeling agency,"New York, NY",N/A,398,"$250,001","$500,000",-87%,"$1,000,001","$5,000,000",commissions,,,"$1,870,632",-2%,,,"$1,910,677",91,21,Trump Model Management LLC
+92,,21,Trump National Golf Club - Colts Neck,golf club,"Colts Neck, NJ",N/A,399,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",golf related revenue,,,"$7,708,047",3%,,,"$7,512,891",92,21,Trump National Golf Club - Colts Neck
+93,,21,Trump National Golf Club - Westchester,golf club,"Briarcliff Manor, NY",N/A,401,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",golf related revenue,,,"$9,771,428",-6%,,,"$10,313,031",93,21,Trump National Golf Club - Westchester
+94,,21,Trump National Golf Club - Washington DC,golf club,"Potomac Falls, VA",N/A,403,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",golf related revenue,,,"$17,508,270",0%,,,"$17,497,594",94,21,Trump National Golf Club - Washington DC
+95,,21,Trump Old Post Office LLC,hotel,Washington DC,N/A,408,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",hotel related revenue,,,"$19,666,129",100%,"$100,001","$1,000,000",,95,21,Trump Old Post Office LLC
+97,,21,Miss Universe LLLP,bank account,,N/A,413,"$50,001","$100,000",14900%,$0,"$1,000",beauty pagent related revenue,,,"$10,973,722",-349%,,,"$49,286,396",97,21,Miss Universe LLLP
+98,,21,Trump Palace/Parc LLC,commercial real estate,"New York, NY",N/A,414,"$1,000,001","$5,000,000",0%,"$1,000,001","$5,000,000",rent,"$100,001","$1,000,000",,0%,"$100,001","$1,000,000",,98,21,Trump Palace/Parc LLC
+99,,22,Trump Park Avenue LLC,residential & commercial real estate,"New York, NY",N/A,420,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",rent/condo sales,"$5,000,000","$5,000,000","$29,943,500",-48%,"$5,000,001","$5,000,001","$44,300,000",99,21,Trump Park Avenue LLC
+100,,22,Trump Plaza LLC,residential & commercial real estate,"New York, NY",N/A,424,"$25,000,001","$50,000,000",0%,"$25,000,001","$50,000,000",rent,"$1,000,001","$5,000,000",,0%,"$1,000,001","$5,000,000",,100,21,Trump Plaza LLC
+101,,22,Trump Prodcutions LLC,production company,"New York, NY",N/A,426,"$1,000,001","$5,000,000",0%,"$1,000,001","$5,000,000",production revenue,,,"$1,103,161",-435%,,,"$5,900,433",101,21,Trump Prodcutions LLC
+103,,22,Trump Restaurants LLC,restaurant,"New York, NY",N/A,430,"$1,000,001","$5,000,000",0%,"$1,000,001","$5,000,000",food & beverage related sales,,,"$4,830,768",19%,,,"$3,906,202",103,22,Trump Restaurants LLC
+104,,22,Trump Ruffin Tower I LLC,commercial real estate,"Las Vegas, NV",N/A,434,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",condo sales/hotel related revenue,,,"$41,519,037",28%,,,"$29,785,433",104,22,Trump Ruffin Tower I LLC
+106,,22,Trump Scotsborough Square LLC,residential real estate,"Scotsborough Square, VA",N/A,438,"$500,001","$1,000,000",0%,"$500,001","$1,000,000",rent,"$5,001","$15,000",,0%,"$5,001","$15,000",,106,22,Trump Scotsborough Square LLC
+108,,22,Trump Tower Commercial LLC,commercial real estate,"New York, NY",N/A,444,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",rent,"$5,000,001","$5,000,001",,0%,"$5,000,001","$5,000,001",,108,22,Trump Tower Commercial LLC
+109,,22,Trump Tower Managing Member Inc,bank account,"New York, NY",N/A,445,"$1,001","$15,000",0%,"$1,001","$15,000",,$0,$201,,0%,$0,$201,,109,22,Trump Tower Managing Member Inc
+110,,22,Trump Vineyard Estates LLC,vineyard,"Charlottesville, VA",N/A,447,"$5,000,001","$25,000,000",0%,"$5,000,001","$25,000,000",rent,"$100,001","$1,000,000",,0%,"$100,001","$1,000,000",,110,22,Trump Vineyard Estates LLC
+111,,22,Trump Vineyard Estates Lot 3 Owner LLC,vineyard,"Charlottesville, VA",N/A,448,"$500,001","$1,000,000",0%,"$500,001","$1,000,000",rent,"$100,001","$1,000,000",,0%,"$100,001","$1,000,000",,111,22,Trump Vineyard Estates Lot 3 Owner LLC
+112,,22,Trump Virginia Acquistions LLC,commercial real estate,"Charlottesville, VA",N/A,450,"$5,000,001","$25,000,000",0%,"$5,000,001","$25,000,000",hotel related revenue,,,"$1,015,752",47%,,,"$534,762",112,22,Trump Virginia Acquistions LLC
+113,,23,Trump Virginia Lot 5 LLC,vineyard,"Charlottesville, VA",N/A,452,"$500,001","$1,000,000",0%,"$500,001","$1,000,000",rent,"$50,001","$100,000",,0%,"$50,001","$100,000",,113,22,Trump Virginia Lot 5 LLC
+116,,23,Trump National Golf Club - Los Angeles,golf course & unsold lots,"Los Angeles, CA",N/A,469,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",golf related revenue/land sales,,,"$27,017,417",58%,,,"$11,270,300",116,23,Trump National Golf Club - Los Angeles
+119,,23,Wollman Rink Operations LLC,operating agreement,"New York, NY",N/A,476,"$1,000,001","$5,000,000",0%,"$1,000,001","$5,000,000",ice skating rink operation,,,"$12,661,523",-2%,,,"$12,901,077",119,23,Wollman Rink Operations LLC
+120,,23,HWA 555 Owners LLC,commercial real estate,"San Francisco, CA",N/A,478,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",rent,"$5,000,001","$5,000,001",,0%,"$5,000,001","$5,000,001",,120,23,HWA 555 Owners LLC
+121,,23,"1290 Avenue of the Americas, a Tenancy-In-Common",commercial real estate,"New York, NY",N/A,479,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",rent,"$5,000,001","$5,000,001",,0%,"$5,000,001","$5,000,001",,121,23,"1290 Avenue of the Americas, a Tenancy-In-Common"
+122,,23,4% partnership interest Starrelt City Associates LP,residential real estate,"Brooklyn, NY",N/A,"18,141,154,446","$5,000,001","$25,000,000",-60%,"$25,000,001","$50,000,000",rent,"$5,000,001","$5,000,001",,0%,"$5,000,001","$5,000,001",,122,23,4% partnership interest Starrelt City Associates LP
+123,,23,4% partnership interest Spring Creek Plaza LLC,commercial real estate,"Brooklyn, NY",N/A,"18,141,154,446","$500,001","$1,000,000",0%,"$500,001","$1,000,000",rent,"$100,001","$1,000,000",,0%,"$100,001","$1,000,000",,123,23,4% partnership interest Spring Creek Plaza LLC
+124,,23,Trump Tower Triplex,residential real estate,"New York, NY",N/A,,"$50,000,001","$50,000,001",0%,"$50,000,001","$50,000,001",,$0,$201,,0%,$0,$201,,124,23,Trump Tower Triplex
+125,,23,DT Venture I LLC,residential real estate,"Palm Beach, FL",N/A,533,"$5,000,001","$25,000,000",0%,"$5,000,001","$25,000,000",,$0,$201,,-100%,"$15,001","$50,000",,125,23,"residential real estate Palm Beach, FL"
+126,,24,DTW Venture LLC,residential real estate,"Palm Beach, FL",N/A,93,"$1,000,001","$5,000,000",0%,"$1,000,001","$5,000,000",rent,"$50,001","$100,000",,0%,"$50,001","$100,000",,126,24,"residential real estate Palm Beach, FL"
+127,,24,DT Marks Worli LLC,license deal,"New York, NY",N/A,89,,,0%,,,royalties,"$1,000,001","$5,000,000",,0%,"$1,000,001","$5,000,000",,127,24,DT Marks Worli LLC
+130,,24,THC Vancouver Management Corp,management co,"Vancouver, Canada",N/A,190,,,0%,,,management fees,,,"$21,576",-66%,,,"$35,714",130,24,THC Vancouver Management Corp
+131,,24,The Trump Entrepreneur Initiative LLC,seminar program,"New York, NY",N/A,201,,,0%,,,resdiual income,,,"$38,542",66%,,,"$13,239",131,24,The Trump Entrepreneur Initiative LLC
+132,,24,TNGC Jupiter Management LLC,management co,"Jupiter, FL",N/A,227,,,0%,,,management fees,,,"$468,346",4%,,,"$451,020",132,24,TNGC Jupiter Management LLC
+133,,24,Trump Chicago Commercial Manager LLC,management co,"New York, NY",N/A,254,,,0%,,,management fees,,,"$1,292,392",-9%,,,"$1,412,078",133,24,Trump Chicago Commercial Manager LLC
+134,,24,Trump Chicago Hotel Manager LLC,management co,"New York, NY",N/A,256,"$15,001","$50,000",,,,management fees,,,"$2,198,295",-3%,,,"$2,254,010",134,24,Trump Chicago Hotel Manager LLC
+135,,24,Trump Chicago Residential Manager LLC,management co,"New York, NY",N/A,260,,,0%,,,management fees,,,"$677,122",0%,,,"$679,444",135,24,Trump Chicago Residential Manager LLC
+136,,24,Trump Marks Fine Foods,license deal,"New York, NY",N/A,333,"$1,001","$15,000",,,,royalties,"$5,001","$15,000",,-69%,"$15,001","$50,000",,136,24,Trump Marks Fine Foods
+137,,25,Trump Marks Philippines LLC,license deal,"New York, NY",N/A,367,"$1,001","$15,000",,,,royalties,"$1,000,001","$5,000,000",,0%,"$1,000,001","$5,000,000",,137,25,Trump Marks Philippines LLC
+139,,25,Trump Marks Stamford LLC,license deal,"New York, NY",N/A,380,,,0%,,,royalties,"$100,001","$1,000,000",,0%,"$100,001","$1,000,000",,139,25,Trump Marks Stamford LLC
+140,,25,Trump Marks Sunny Isles I LLC,license deal,"New York, NY",N/A,381,,,0%,,,royalties,"$100,001","$1,000,000",,0%,"$100,001","$1,000,000",,140,25,Trump Marks Sunny Isles I LLC
+141,,25,Trump Panama Hotel Management LLC,management agreement,"New York, NY",N/A,417,"$15,001","$50,000",,,,management fees,,,"$810,795",-58%,,,"$1,280,599",141,25,Trump Panama Hotel Management LLC
+142,,25,Trump Toronto Hotel Management Corp,license deal,"New York, NY",N/A,442,"$1,001","$15,000",,,,management fees,,,"$559,904",-9%,,,"$611,864",142,25,Trump Toronto Hotel Management Corp
+143,,25,TW Venture I LLC,transportation services,"Palm Beach, FL",N/A,462,,,0%,,,operating income,,,"$185,601",-31%,,,"$243,899",143,25,TW Venture I LLC
+144,,25,Trump Management Inc,management co,"Manhasset, NY",N/A,480,"$15,001","$50,000",,,,management fees,,,"$30,000",-367%,,,"$140,000",144,25,Trump Management Inc
+145,,25,Ritz Carlton Hotel at 112 Central Park South,management agreement,"New York, NY",N/A,535,"$15,001","$50,000",,,,management fees,,,"$286,125",0%,,,"$286,000",145,25,Ritz Carlton Hotel at 112 Central Park South
+146,,26,Think Like A Champion,book,"New York, NY",N/A,,,,0%,,,royalties,"$15,001","$50,000",,0%,"$15,001","$50,000",,146,26,Think Like A Champion
+147,,26,The Art of The Deal,book,"New York, NY",N/A,,,,0%,,,royalties,"$100,001","$1,000,000",,633%,"$50,001","$100,000",,147,26,The Art of The Deal
+148,,26,Time to Get Tough,book,"New York, NY",N/A,,,,0%,,,royalties,"$100,001","$1,000,000",,0%,"$100,001","$1,000,000",,148,26,Time to Get Tough
+149,,26,Think Like a Billionaire,book,"New York, NY",N/A,,,,0%,,,,$0,$201,,0%,$0,$201,,149,26,Think Like a Billionaire
+150,,26,The Art of the Comeback,book,"New York, NY",N/A,,,,0%,,,,$0,$201,,0%,$0,$201,,150,26,The Art of the Comeback
+151,,26,Why We Want You to be Rich,book,"New York, NY",N/A,,,,0%,,,,$0,$201,,0%,$0,$201,,151,26,Why We Want You to be Rich
+152,,26,Trump 101: The Way to Success,book,"New York, NY",N/A,,,,0%,,,,$0,$201,,0%,$0,$201,,152,26,Trump 101: The Way to Success
+153,,27,The America We Deserve,book,"New York, NY",N/A,,,,0%,,,,$0,$201,,0%,$0,$201,,153,27,The America We Deserve
+154,,27,Never Give Up,book,"New York, NY",N/A,,,,0%,,,,$0,$201,,0%,$0,$201,,154,27,Never Give Up
+155,,27,The Best Real Estate Advice I Ever Recieved,book,"New York, NY",N/A,,,,0%,,,,$0,$201,,0%,$0,$201,,155,27,The Best Real Estate Advice I Ever Recieved
+156,,27,The Way to the Top,book,"New York, NY",N/A,,,,0%,,,,$0,$201,,-83%,$201,"$1,000",,156,27,The Way to the Top
+157,,27,How to Get Rich,book,"New York, NY",N/A,,,,0%,,,royalties,"$5,001","$15,000",,0%,"$5,001","$15,000",,157,27,How to Get Rich
+158,,27,Think Big and Kick Ass,book,"New York, NY",N/A,,,,0%,,,,$0,$201,,0%,$0,$201,,158,27,Think Big and Kick Ass
+159,,27,Surviving at the Top,book,"New York, NY",N/A,,,,0%,,,,$0,$201,,0%,$0,$201,,159,27,Surviving at the Top
+160,,27,Screen Actors Guild Pension,pension,"Burbank, CA",N/A,,,,0%,,,pension,,,"$84,292",-100%,,,"$168,684",160,27,Screen Actors Guild Pension
+169,,28,THC Miami Restaurant Hospitality LLC,bank account,"Miami, FL",N/A,178,"$500,001","$1,000,000",100%,"$250,001","$500,000",food & beverage related sales,,,"$7,390,861",-7%,,,"$7,897,325",169,28,THC Miami Restaurant Hospitality LLC
+172,,28,40 Wall Street Commercial LLC,bank account,"New York, NY",N/A,4,"$15,001","$50,000",0%,"$15,001","$50,000",,$0,$201,,0%,$0,$201,,172,28,40 Wall Street Commercial LLC
+173,,28,DT Dubai II Golf Manager LLC,bank account/management deal,"Dubai, UAE",N/A,61,"$15,001","$50,000",0%,"$15,001","$50,000",royalties,$0,$201,,-100%,"$1,000,001","$5,000,000",,173,29,DT Dubai II Golf Manager LLC
+174,,28,DT Tower Gurgaon LLC,bank account/license deal,"Gurgaon, India",N/A,91,"$1,001","$15,000",0%,"$1,001","$15,000",royalties,"$100,001","$1,000,000",,0%,"$100,001","$1,000,000",,174,29,Dt Tower Gurgaon LLC
+176,,28,Tag Air Inc,bank account,"New York, NY",N/A,161,"$15,001","$50,000",306%,"$1,001","$15,000",aircraft related revenue/expense reimbursements,,,"$7,727,674",52%,,,"$3,713,693",176,29,Tag Air Inc
+178,,28,THC IMEA Development LLC,developer,"New York, NY",N/A,177,"$15,001","$50,000",0%,"$15,001","$50,000",,$0,$201,,0%,$0,$201,,178,29,THC IMEA Development LLC
+181,,28,DT Bali Technical Services Manager LLC,bank account/management deal,"Bali, Indonesia",N/A,497,"$1,001","$15,000",1499%,$0,"$1,001",management fees,,,"$190,476",56%,,,"$83,333",181,30,DT Bali Technical Services Manager LLC
+182,,28,DT Connect Europe Limited,aircraft,"Turnberry, Scotland",N/A,499,"$1,000,001","$5,000,000",0%,"$1,000,001","$5,000,000",rent,"$100,001","$1,000,000",,1592%,"$15,001","$50,000",,182,30,DT Connect Europe Limited
+183,,29,DT Endeavor I LLC,bank account/management deal,"Palm Beach, FL",N/A,500,"$5,000,001","$25,000,000",0%,"$5,000,001","$25,000,000",,$0,$201,,0%,$0,$201,,183,30,DT Endeavor I LLC
+184,,29,DT Lido Technical Services Manager LLC,bank account/management deal,"Lido, Indonesia",N/A,509,$0,"$1,001",0%,$0,"$1,001",management fees,,,"$83,333",0%,,,"$83,333",184,30,DT Lido Technical Services Manager LLC
+187,,29,Mobile Payroll Construction LLC,bank account,"Bedminister, NJ",N/A,523,"$50,001","$100,000",0%,"$50,001","$100,000",,$0,$201,,0%,$0,$201,,187,31,Mobile Payroll Construction LLC
+188,,29,Crippled America,book,"New York, NY",N/A,,,,0%,,,royalties,"$1,000,001","$5,000,000",,0%,"$1,000,001","$5,000,000",,188,31,Crippled America
+189,NEW,29,DTTM Operations LLC,bank account,"New York, NY",N/A,519,"$15,001","$50,000",,,,,$0,$201,,100%,,,,,,
+190,NEW,29,Trump Las Vegas Managing Member,bank account,"Las Vegas, NV",N/A,309,$0,"$1,001",,,,sponser fee,,,"$53,700",100%,,,,,,
+191,NEW,29,Trump Las Vegas Sales & Marketing Inc,bank account,"Las Vegas, NV",N/A,311,"$1,001","$15,000",,,,commissions,,,"$14,078,526",100%,,,,,,
+192,NEW,29,DT Tower Kolkata LLC,bank account,"Kolkata, India",N/A,517,$0,"$1,001",,,,royalties,"$100,001","$1,000,000",,100%,,,,,,
+193,NEW,30,DT Marks Vancouver LP,bank account,"Vancouver, Canada",N/A,193,$0,"$1,001",,,,royalties,"$5,000,001","$5,000,001",,100%,,,,,,
+194,NEW,30,Storage 106 LLC,commercial real estate,"New York, NY",N/A,194,"$5,000,001","$25,000,000",,,,rent,"$100,001","$1,000,000",,100%,,,,,,
